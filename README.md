@@ -47,8 +47,8 @@ To use the model and GUI, follow these steps:
 
 ## Credits
 Muhammad Shahab Hasan (Shab)
-[https://www.fiverr.com/best_output]
-[https://www.youtube.com/Shabpassiongamer]
-[https://medium.com/@ShahabH]
+- https://www.fiverr.com/best_output
+- https://www.youtube.com/Shabpassiongamer
+- https://medium.com/@ShahabH
 
 The "Brain Tumor Classification (MRI)" dataset was created by SARTAJ and is licensed under the CC0: Public Domain License.
