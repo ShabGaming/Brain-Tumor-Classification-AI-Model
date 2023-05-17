@@ -1,4 +1,4 @@
-# Brain Tumor Classification (MRI) | AI Model
+# Brain MRI Tumor Classification Deep Learning Model
 
 This is a deep learning model that can classify MRI images of the brain into four categories: glioma tumor, meningioma tumor, no tumor, and pituitary tumor. The model was trained on the Images Dataset "Brain Tumor Classification (MRI)" From Kaggle by SARTAJ under the CC0: Public Domain License.
 
